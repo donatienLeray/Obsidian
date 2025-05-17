@@ -1,0 +1,3 @@
+- RAM muss nicht sauber sein
+  - TM muss die sauber sein?
+  - 1-TM? 

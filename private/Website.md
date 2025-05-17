@@ -1,0 +1,1 @@
+Motto: Driven by curiosity. Grounded in hard work
